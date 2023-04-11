@@ -1,9 +1,9 @@
-# GGR472 Lab 3
+# IREO My Website
  
-This repository contains code for my webpage with a link to a GeoJSON file and three web maps. 
+This repository contains code for my website which includes three web maps. 
 One map is about Eastern Ontario road trip attractions, the another is showing TTC subway lines & bakeries in Toronto, and the last one is showing attractions I visited in Seattle & 2010 total population by census tracts (categorized using natural breaks).
 
-My webpage: https://ireo00.github.io/ggr472-lab3/
+My webpage: https://ireo00.github.io/IREO/
 
 2023-March-07 UPDATES:
 - there is new pop-up for 'Bakeries in Toronto' map, showing the name of the bakery and website.
