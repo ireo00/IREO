@@ -1,0 +1,201 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Type": "Restaurant",
+                "Name": "Captain George's"
+            },
+            "geometry": {
+                "coordinates": [
+                    -78.94302734171454,
+                    44.10539238047383
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Type": "Brewery",
+                "Name": "Prince Eddy's Brewing Co"
+            },
+            "geometry": {
+                "coordinates": [
+                    -77.14572901197954,
+                    44.015409890054315
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Type": "Coffee Shop",
+                "Name": "Equator Coffee"
+            },
+            "geometry": {
+                "coordinates": [
+                    -76.18118917314473,
+                    45.235149684498225
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Il Buco",
+                "Type": "Restaurant"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.68911712662748,
+                    44.389099106657966
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Type": "Restaurant",
+                "Name": "Rocky River Cafe"
+            },
+            "geometry": {
+                "coordinates": [
+                    -76.2485929930183,
+                    44.897323823789236
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Hong Won Chop",
+                "Type": "Restaurant"
+            },
+            "geometry": {
+                "coordinates": [
+                    -76.16174026817437,
+                    44.33023820480284
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "1000 Islands Bed and Breakfast the Bulloch House",
+                "Type": "Stay"
+            },
+            "geometry": {
+                "coordinates": [
+                    -76.1599031511511,
+                    44.3298440540496
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Tammy's Country Kitchen",
+                "Type": "Restaurant"
+            },
+            "geometry": {
+                "coordinates": [
+                    -76.96207593836691,
+                    44.24077476802768
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Nicky's Doughnuts & Ice Cream",
+                "Type": "Dessert"
+            },
+            "geometry": {
+                "coordinates": [
+                    -80.21732485453974,
+                    44.49866926665541
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Gibson & Company",
+                "Type": "Coffee Shop & Bar"
+            },
+            "geometry": {
+                "coordinates": [
+                    -80.21643118193425,
+                    44.49995666551928
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Willow Pond B&B",
+                "Type": "Stay"
+            },
+            "geometry": {
+                "coordinates": [
+                    -78.96014270362701,
+                    44.107092133935964
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Type": "Coffee Shop",
+                "Name": "French Made"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.3922062387682,
+                    43.64544454322905
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "The Lone Wolf Café",
+                "Type": "Coffee Shop"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.41533510502083,
+                    44.60969069317241
+                ],
+                "type": "Point"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Apna Pind - Indian Restaurant",
+                "Type": "Restaurant"
+            },
+            "geometry": {
+                "coordinates": [
+                    -79.66900888979016,
+                    43.678840006823265
+                ],
+                "type": "Point"
+            }
+        }
+    ]
+}
