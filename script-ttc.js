@@ -50,7 +50,7 @@ map.on('load', () => {
     //ADDING TTC subway stations from a GeoJSON file, GeoJSON must direct to URL 
     /*map.addSource('ttc-subwayStns', {
         type: 'geojson',
-        data: 'https://ireo00.github.io/ggr472-lab2/Data/subwayStations.geojson'
+        data: 'https://ireo00.github.io/IREO/Data/subwayStations.geojson'
     });
 
     //Draw GeoJSON as circles
@@ -156,8 +156,7 @@ map.on('load', () => {
     //ADDING TTC subway stations from a GeoJSON file, GeoJSON must direct to URL 
     map.addSource('to-bakeries', {
         type: 'geojson',
-        data: 'https://ireo00.github.io/ggr472-lab3/Data/TObakeries.geojson'
-        //'https://github.com/ireo00/ggr472-lab2/blob/17826471d174efba232ad1cf10bac9cc7653c897/Data/TObakeries.geojson'
+        data: 'https://ireo00.github.io/IREO/Data/TObakeries.geojson'
     });
 
     //Draw GeoJSON as circles

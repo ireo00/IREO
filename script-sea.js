@@ -84,7 +84,7 @@ map.on('load', () => {
     //GeoJSON must direct to URL 
     map.addSource('seattle-d4', {
         type: 'geojson',
-        data: 'https://ireo00.github.io/ggr472-lab3/Data/Seattle-D4.geojson'
+        data: 'https://ireo00.github.io/IREO/Data/Seattle-D4.geojson'
     });
 
     //Draw GeoJSON as circles
